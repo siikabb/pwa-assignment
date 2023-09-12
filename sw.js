@@ -6,6 +6,7 @@ const filesToCache = [
   './js/main.js',
   './fonts/Quicksand-Regular.ttf',
   './img/bg.jpeg',
+  './assets/',
 ];
 
 self.addEventListener('install', e => {
